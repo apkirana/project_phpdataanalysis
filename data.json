@@ -1,0 +1,24 @@
+{
+    "sales": [
+      {"date": "2023-01", "amount": 12500},
+      {"date": "2023-02", "amount": 15000},
+      {"date": "2023-03", "amount": 18000},
+      {"date": "2023-04", "amount": 22000},
+      {"date": "2023-05", "amount": 20000},
+      {"date": "2023-06", "amount": 25000}
+    ],
+    "products": [
+      {"name": "Laptop", "sales": 150},
+      {"name": "Smartphone", "sales": 300},
+      {"name": "Tablet", "sales": 100},
+      {"name": "Headphones", "sales": 200},
+      {"name": "Smartwatch", "sales": 80}
+    ],
+    "customerLocations": [
+      {"country": "USA", "customers": 500},
+      {"country": "UK", "customers": 300},
+      {"country": "Germany", "customers": 250},
+      {"country": "France", "customers": 200},
+      {"country": "Canada", "customers": 150}
+    ]
+  }
